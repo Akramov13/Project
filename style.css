@@ -111,12 +111,12 @@ body {
 }
 
 .img img {
-    /* width: 670px; */
+    width: 31%;
     height: 630px;
 }
 
 .img img:nth-child(2) {
-    /* width: 500px; */
+    width: 27%;
     height: 500px;
 }
 
