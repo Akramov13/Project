@@ -111,12 +111,12 @@ body {
 }
 
 .img img {
-    width: 670px;
+    /* width: 670px; */
     height: 630px;
 }
 
 .img img:nth-child(2) {
-    width: 500px;
+    /* width: 500px; */
     height: 500px;
 }
 
@@ -200,7 +200,7 @@ body {
 .dom{
     /* text-align: center; */
     width: max-content;
-    /* margin: 0px 200px ; */
+    margin: 0px 200px ;
     /* background-color: red; */
 }
 .dom h1 {
