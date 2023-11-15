@@ -112,12 +112,12 @@ body {
 
 .img img {
     width: 31%;
-    height: 630px;
+    height: 600px;
 }
 
 .img img:nth-child(2) {
     width: 27%;
-    height: 500px;
+    height: 480px;
 }
 
 .text {
